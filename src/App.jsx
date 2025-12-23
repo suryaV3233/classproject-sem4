@@ -6,8 +6,8 @@ import './App.css'
 function App(){
   return(
     <dev>
-     <h1>react</h1>
-     <h2>Roshini</h2>
+     <h1>surya</h1>
+     <h2>viswanathan</h2>
     </dev>
   )
 
